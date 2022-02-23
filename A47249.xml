@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nobilissimis amplissimis &amp; consultissimis viris D. Thomæ Kennedy A Kirkhil, equiti aurato, inclytæ civitatis Edinburgi consuli magnifico; ... D:D:G:Q: Herbertus Kennedy præses &amp; candidati. ...</title>
+            <author>Kennedy, Herbert, fl. 1686-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47249</idno>
+            <idno type="STC">Wing K292</idno>
+            <idno type="STC">ESTC R220024</idno>
+            <idno type="EEBO-CITATION">99831462</idno>
+            <idno type="PROQUEST">99831462</idno>
+            <idno type="VID">35925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nobilissimis amplissimis &amp; consultissimis viris D. Thomæ Kennedy A Kirkhil, equiti aurato, inclytæ civitatis Edinburgi consuli magnifico; ... D:D:G:Q: Herbertus Kennedy præses &amp; candidati. ...</title>
+                  <author>Kennedy, Herbert, fl. 1686-1690.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>excudebat Joannis Reid,</publisher>
+                  <pubPlace>Edinburgi :</pubPlace>
+                  <date>anno Dom. MCDLXXXVI [1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Degree candidates listed below title.</note>
+                  <note>Theses listed in two columns.</note>
+                  <note>Imperfect; stained and torn with slight loss of print.</note>
+                  <note>Reproduction of the original in the Edinburgh University Library, Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Universities and colleges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:35925:1" rendition="simple:additions"/>
+            <head>NOBILISSIMIS AMPLISSIMIS &amp; CONSULTISSIMIS VIRIS D. THOMAE KENNEDY A KIRKHIL, Equiti Aurato, INCLYTAE CIVITATIS EDINBURGI CONSULI MAGNIFICO; DD. <hi>DAVIDI LINDSAY, JACOBO S<g ref="char:V">Ʋ</g>THERLAND, ALEXANDRO HAMILTON, JOANNI CHARTERIS</hi> Praetoribus Prudentiae, &amp; Juſtitiae nomine Clariſſimis; <hi>MAGNO PRINCE</hi> Aedili Vigilantiſſimo: <hi>GEORGIO</hi> &amp; <hi>JOANNI DR<g ref="char:V">Ʋ</g>MMONDIS,</hi> illi Urbis, huic <hi>Academiae,</hi> Quaeſtoribus Fideliſſimis. <hi>Et Reliquis Senatoribus</hi> Edinburgenis Academiae JACOBI Regis <hi>Curatoribus &amp; Patronis Eximiis &amp; Meritiſſimis.</hi>
+            </head>
+            <head type="sub">Theſes haſce Philoſophicas, horâ &amp; loco ſolitis, ad Auguſti diens propugnandas, D: D: C: Q: <hi>HERBERTUS KENNEDY</hi> Praeſes &amp; CANDIDATI.
+<list>
+                  <item>Adamus Bennet,</item>
+                  <item>Alexander Ateskine,</item>
+                  <item>Alexander Leſlie,</item>
+                  <item>Andreas Donaldſone,</item>
+                  <item>Andreas Murray,</item>
+                  <item>Carolus Scot,</item>
+                  <item>David Kennedy,</item>
+                  <item>Donaldus Mcdonald,</item>
+                  <item>Georgius Bennet,</item>
+                  <item>Gualterus Pringle,</item>
+                  <item>Gulielmus Barclay,</item>
+                  <item>Gulielmus Douglas,</item>
+                  <item>Gulielmus Douglas, <hi>alter,</hi>
+                  </item>
+                  <item>Gulielmus Gartſhore,</item>
+                  <item>Gulielmus Hamilton,</item>
+                  <item>Gulielmus Hog,</item>
+                  <item>Gulielmus Kintore,</item>
+                  <item>Gulielmus Strachan,</item>
+                  <item>Gulielmus Wilſon,</item>
+                  <item>Hugo Wallace,</item>
+                  <item>Hugo Somervel,</item>
+                  <item>Jacobus Campbel,</item>
+                  <item>Jacobus Douglas,</item>
+                  <item>Jacobus Hart,</item>
+                  <item>Jacobus Kennedy,</item>
+                  <item>Jacobus Lithgow,</item>
+                  <item>Jacobus M'cubie,</item>
+                  <item>Jacobus Millar,</item>
+                  <item>Jacobus Moriſon,</item>
+                  <item>Jacobus Neilſon, <hi>Bervico Britan:</hi>
+                  </item>
+                  <item>Joannes Belches,</item>
+                  <item>Joannes Monro,</item>
+                  <item>Joannes Ord, <hi>Bervico Britan:</hi>
+                  </item>
+                  <item>Joannes Sinclare,</item>
+                  <item>Joannes Spotswood,</item>
+                  <item>Joannes Wilſon,</item>
+                  <item>Laurentius Binning,</item>
+                  <item>Marcus Ker,</item>
+                  <item>Matheus Reid,</item>
+                  <item>Patrioius Hume,</item>
+                  <item>Patricius Purdie,</item>
+                  <item>Patricius Stodhart,</item>
+                  <item>Richardus Callendar,</item>
+                  <item>Robertus Innis,</item>
+                  <item>Robertus Stodhart,</item>
+                  <item>Rogerus Hepburn,</item>
+                  <item>Timotheus Punſhion, <hi>Anglus</hi>:</item>
+                  <item>Thomas Laurie,</item>
+                  <item>Thomas Thomſon,</item>
+                  <item>Thomas Wharton. <hi>Anglus.</hi>
+                  </item>
+               </list>
+            </head>
+            <p n="1">I. UT humanum Genus in veritatis indagine majori cum fructu procederet, plurimi opem &amp; induſtriam contulerunt ſuam; ſed nulli illis infaelicius rem ſuſcepiſſe videntur, quorum ingentia volumina ſcatent inutilibus &amp; ad nauſcam uſque repetitis quaeſtionibus, de <hi>Genere</hi> &amp; <hi>objecto Logicae,</hi> de <hi>
+                  <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſali, gradibus Metaphyſicis, praeciſionibus formalibus</hi> &amp; <hi>objectivis,</hi> &amp; perplurimis ejuſdem fur<g ref="char:EOLhyphen"/>furis: Ubi nihil audiri poteſt, praeter <hi>formaliter</hi> &amp; <hi>ſubjectivè, primò</hi> &amp; <hi>ſecundò intentionaliter,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; ac iſtiuſmodi vocum monſtra, Exorciſmis quam ſcholis aptiora. Jure meritò tantae praeceptorum farragini, Longe anteferenda ſunt quatuor illa praecepta, quae <hi>Clariſſ: Carteſius in diſſert: ſuâ de Methodo</hi> Veritatis Amatoribus propinavit.</p>
+            <p n="2">II. Cum evidens ſit unumquemque certiſſimè percipere, quod affirmat, negat, dubitat, intelligit, imaginatur, <hi>&amp;c:</hi> Hoc enunciatum <hi>Cogito,</hi> ſive ſum <hi>Cogitans</hi> uni<g ref="char:EOLhyphen"/>cum &amp; certiſſimum eſſe fundamentum totius Philoſophiae, inferendum quoquè eſt: Hinc ſequitur omne quod nobis evidens eſt, quod aequè clarè &amp; diſtinctè ac praedictum prin<g ref="char:EOLhyphen"/>cipium percipimus, omnequè quod cum hoc principio ità convenit, &amp; ab illo ita de<g ref="char:EOLhyphen"/>pendet, ut ſi de eo dubitare velimus, etiam de principio eſſet dubitandum, pro Veriſ<g ref="char:EOLhyphen"/>ſimo habendùm eſſe.</p>
+            <p n="3">III. Quoniam verò nobis ineſt <hi>Idea Dei,</hi> concludimus <hi>Deum exiſtere:</hi> Nam om<g ref="char:EOLhyphen"/>nis Entitas rei repraeſentatae per <hi>Ideam,</hi> cauſam in quâ formaliter vel e<g ref="char:EOLhyphen"/>minenter continetur, neceſſariò habet; Et etiam nos habemus Ideam Dei, in quan<g ref="char:EOLhyphen"/>tum eſt ſubſtantia perfectiſſima, omnimodam limitationem excludens: Cumque nihil reperiatur in omnibus creatis finitis, quod nobis Ideam ſubſtantiae infinitae ingerat, proinde neceſſe eſt à ſolo Deo infinito procedat. Hallucinantur autem qui exiſti<g ref="char:EOLhyphen"/>mant nos ratiocinatione tantùm &amp; argumentorum ſerie Deum cognoſcere; quae ar<g ref="char:EOLhyphen"/>gumenta dicunt non à Dei Ideâ, ſed à nobis &amp; creaturis duci, &amp; ad Deum referri: Nam ſic homo non eſſet creatus ad imaginem Dei, ſed nos Deum formaremus ad imaginem hominis; quod fuſius proſequitur <hi>Velthuſ:</hi>
+            </p>
+            <p n="4">IV. Quotcunque homines oraculo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+monenti auſcultarent, facile nôſſe poſſent animae noſtrae rerumque ſpiritualium cognitionem multo corporis rerumque quarumlibet ſenſibilium cognitione evidentiorem eſſe: Proinde mirandum, nuperum Auctorem <hi>D. de <g ref="char:V">Ʋ</g>ries</hi> tantopere huic veritati adverſari, quòd è contra aſſerat claram &amp; diſtinctam rerum ſpiritualium cognitionem ſervari iſti ſaeculo, quo <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+futuri ſimus; ſi illum audiamus, <hi>hominem exuamus oportet, priuſquam claras &amp; diſtinctas de prae<g ref="char:EOLhyphen"/>dictis comparare poſſumus Ideas</hi>; Nos quidem belluam induiſſe potius aſſeruerimus, qui rebus tantum materialibus contemplandis vacet. Rationi etiam abſonum eſſe videtur, quod contra argumentum ab Ideâ petitum adducit idem <hi>de <g ref="char:V">Ʋ</g>ries,</hi> tanquam <hi>Apoſtolus Gentium, Rom. c.</hi> 1. <hi>v.</hi> 20. contrarium docuiſſet: Nunquam negavit <hi>Carteſius</hi> tandem a<g ref="char:EOLhyphen"/>liquando à rerum ſenſibilium cognitione in ipſam Dei notitiam nos poſſe aſcendere; lis tantum eſt de medio optimo &amp; eo quod ordine Philoſophanti primò occurrit. Multa alia incongrua de hoc Themate accumulat idem Auctor, quae omnia perſequi anguſta ſchedula non patitur.</p>
+            <p n="5">V. Ethica vel definiri poteſt, <hi>Ars benè beatéque vivendi</hi>; vel <hi>prudentia diſcurſiva, directi<g ref="char:EOLhyphen"/>va actionum humanarum ad honeſtatem.</hi> Bonum verò, vel <hi>quod omnia appetunt,</hi> vel, <hi>quod cui<g ref="char:EOLhyphen"/>libet gratum &amp; conveniens eſt.</hi> Quaecunque veto Boni definitio amplectenda ſit, Bonum eſt objectum adaequatum voluntatis quoad actus proſecutivos, ideoque Malum quà Ma<g ref="char:EOLhyphen"/>lum appeti nequit.</p>
+            <p n="6">VI. Beatitudo formalis neque conſiſtit adaequatè in amore, neque in viſione, ſed in utroque; cum enim beatitudo hominis objectiva ſit tum ſuprema veritas, tum ſumma bonitas, debet attingi &amp; poſſideri per actus illarum potentiarum, quae verſantur circà Verum &amp; Bonum, &amp; proinde ab actu tum intellectûs, tum Voluntatis.</p>
+            <p n="7">VII. Ignorantia eſt Faelicitati inimica, quodcunquè ogganniat <hi>Joannes Stearn</hi> Medicus, in ſuâ Animae medelâ; aſſerens neque ignorantiam purae negationis, neque pravae diſ<g ref="char:EOLhyphen"/>poſitionis eſſe foelicitati inimicam. Reſutatione non egent, quae ad ſuam ſententiam probandam adfert, cum omnia huic innitantur fundamento, <hi>Imaginatio noſtra de foelici<g ref="char:EOLhyphen"/>tate eſt noſtra vera foelicitas,</hi> quod nec ille nec quilibet alius probavit, aut unquam proba<g ref="char:EOLhyphen"/>bit. Quis enim credat imaginariam ejus foelicitatem eſſe gaudium ſolidum, &amp; a beati<g ref="char:EOLhyphen"/>fici objecti fruitione oriundum?</p>
+            <p n="8">VIII. Phyſicae eſt, Eſſentiam materiae, &amp; proprietates inde pullulantes inveſtigare: Natura autem Materiae ſive Corporis in ſolâ Extenſione in longum latum &amp; profundum conſiſtit; ſublatâ enim Ideâ Extenſionis à materiâ nullam ideam illi ſupereſſe videmus, quemadmodum pereunte ideâ figurae tribus lineis rectis comprehenſae, perit Idea trian<g ref="char:EOLhyphen"/>guli. Hinc facile deduci poteſt, 1mo. Nullum eſſe diſcrimen inter Corpus Phyſicum &amp; Mathematicum. 2do. Eandem eſſe materiam corporum Coeleſtium &amp; Terreſtrium. 3tio. Corpus generaliter acceptum &amp; ſpatium idem eſſe. 4to. Materiam eſſe impenetrabilem, ſive unam materiae partem non poſſe ſimul &amp; ſemel, cum aliâ ejuſdem magnitudinis in eodem loco conſiſtere. 5to. Deniquè materiam eſſe diviſibilem, etiam quoad ejus partes maximè exiguas.</p>
+            <p n="9">IX. Continua rectè definiuntur, <hi>quorum extrema ſunt unum,</hi> Contigua verò, <hi>quorum ex<g ref="char:EOLhyphen"/>trema ſunt ſimul</hi>: Si igitur duo aliqua quanta ità ſe habeant, ut idem ſit utriuſque ex<g ref="char:EOLhyphen"/>tremum, iſta reverâ non ſunt duo corpora, ſed unum continuum, &amp; duo tantum per deſignationem mentis: Si autem ità ſe habeant, ut unicuique competant ſua extrema, ſed ità ut extrema unius per contractum conjungantur cum extremis alterius, iſta quidem non ſunt unum per continuationem, ſed per aggregationem tantum. Ridiculum ergo eſt illud quod aſſerit <hi>Albius,</hi> nim: totum hoc Univerſum eſſe unum Continuum: conſtat in Corporibus hujus mundi plurimum motûs eſſe, ità ut quaedam moveantur, &amp; alia ut quieſcentia ſpectentur; per motum vero non tantum tollitur contiguitas, ſed etiam con<g ref="char:EOLhyphen"/>tinuitas: hinc è numero Continuorum excludimus, 1mo. Omnia Liquida, 2do. Corpora viventia; 3tio. Omnia fere corpora Phyſica, praeſertim verò quae ità craſſa ſunt ut noſtris ſenſibus ſint obvia: Relinquitur ergò Continuitatem deprehendi in minimis partibus ma<g ref="char:EOLhyphen"/>teriae, ſive in corpuſculis adeò exiguis ut aciem noſtri ſenſus penitus effugiant: Illa e<g ref="char:EOLhyphen"/>nim Corpuſcula quantumvis exigua non minus ſunt diviſibilia, quam majora Corpora, &amp; nobis eodem loco habenda, ac ſi altiſſimorum montium magnitudinem aequarent.</p>
+            <p n="10">X. Vacuum, ſive ſpatium ſine Corpore, in propria &amp; Philoſophicâ ſignificatione dari repugnat; Hoc certe idem eſſet ac Corpus ſine corpore, quia ſpatium habet <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipli<g ref="char:EOLhyphen"/>cem dimenſionem, &amp; haec ad generalem corporis notionem ſufficit.</p>
+            <p n="11">XI. Tres iſtae motûs definitiones nim: Quod ſit vel <hi>tranſlatio corporis ex viciniâ uni<g ref="char:EOLhyphen"/>us in viciniam alterius, quae tanquam quieſcentia ſpectantur</hi>; vel quod ſit, <hi>variabilis diſtantia corporis unius ab aliorum corporum partibus</hi>: vel, <hi>mutabilis diſtantia unius puncti à tribus aliis punctis determinatis, &amp; non in rectâ jacentibus,</hi> non tam ſenſu ac re, quam verbis differre videntur. Quies itaque erit, <hi>continua applicatio corporis ad eaſdem partes corporum circumja<g ref="char:EOLhyphen"/>centium,</hi> vel eadem manens diſtantia corporis unius ab alterius corporis partibus. Hinc patet <hi>Primo,</hi> tam motum quam quietem eſſe relativa. <hi>Secundo,</hi> Corpus ad quod referuntur immobile ſupponi. <hi>Tertio,</hi> Nullum eſſe motum aut quietem abſolute conſiderando. <hi>Quarto,</hi> Si in toto univerſo eſſent duo vel plura corpora, dicimus motum fore recipro<g ref="char:EOLhyphen"/>cum; nam definitio motûs non minus competit corpori à quo intelligimus motum fie<g ref="char:EOLhyphen"/>ri, quam ipſi corpori quod moveri volumus.</p>
+            <p n="12">XII. Cum conditiones quantitatis motui competant, quantitatem tum <hi>intenſivam,</hi> ra<g ref="char:EOLhyphen"/>tione, <hi>ſcil:</hi> lineae vel ſpatii quod mobile tranſcurrit, tum <hi>extenſivam,</hi> quae deſumitur à magnitudine ipſius corporis quod movetur, motui competere neceſſe eſt: ex utrâque hac quantitate oritur <hi>vis, robur,</hi> ſive <hi>momentum</hi> motûs; Atque hinc computari poſſunt momenta corporum.</p>
+            <p n="13">XIII. Dum Peripatetici aſſerunt unum motum eſſe alteri contrarium, ſi loquantur de contrariis effectibus &amp; determinationibus, ſatis commodè intelligi poteſt: ſed ſi per <hi>con<g ref="char:EOLhyphen"/>trarium</hi> intelligant illud quod ſuum oppoſitum deſtruit, negandum eſt unum motum alteri contrarium eſſe. Nam ſi minus aliquod corpus à majori quieſcente repellatur, id mobili continget quod Peripatetici vocant motum contrarium, &amp; tamen nihil eſt aliud praeterquam continuatio ejuſdem motûs, mutatâ determinatione: Idem enim motus nequit contrariari ſibi; ſola igitur quies eo ſenſu eſt motui contraria, ſicut motus quieti, nam motus &amp; quies ſe mutuò tollunt.</p>
+            <p n="14">XIV. Primam motus Regulam hanc eſſe ſtatuimus, nempe <hi>omne corpus mobile, in motu perſeverare, niſi ab extrinſeco impediatur</hi>; h. e. corpus, quod in motu eſt, non magis ex ſe poteſt deſiſtere à motu, quam corpus quieſcens ex ſe motum inchoare poteſt. Priorem motûs regulam excipiat haec<g ref="char:punc">▪</g> 
+               <hi>illa corpora qu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> circulariter moventur, ſemper <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>vantur r<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>codere à centro ſui motus</hi>; niſi quidem ab aliis cauſis determinarentur ad motus circulares, non pergerent in circulo movere, ſed continuarent ſuum motum in lineâ rectâ, quae tangit cir<g ref="char:EOLhyphen"/>culum in eo puncto in quo ſibi ipſis permiſta ſunt. Tertia Motus regula eſt, <hi>Si cor<g ref="char:EOLhyphen"/>pus durum directè incurrat in aliud Corpus durum quieſcens, tum iſta duo corpora habent niſi eandem quantitatem motûs inter ſe, quam habebat unum illud quod in aliud incurrere ſup<g ref="char:EOLhyphen"/>ponitur</hi>; quantum igitur communicatur corpori prius quieſcenti, tantum à mobili detrahitur. Quarta, <hi>Si corpus durum in aliud incurrat quod tardius movetur in eâdem lineâ rectâ, &amp; quod ſibi ipſi aequale eſt, procedent poſteà in eâdem lineâ rectâ, ſed permutatis celeritatibus.</hi> 5ta, eſt haec, <hi>quodvis mobile quantumvis exiguum aliud quodvis corpus, quantumvis magnum, ſed quieſcens, impellit &amp; ad motum concitat</hi>: Hic enim à <hi>Carteſio</hi> recedere cogimur, aſſerente, <hi>Exiguum corpus quantâeunque celeritate motum non concitare ad motum majus corpus quieſcens, ſed ab eo repelli eâdem celeritate quâ acceſserat:</hi> verum hic aliquid humani patitur Magnum il<g ref="char:EOLhyphen"/>lud ingenium, fatentibus hujus ſaeculi Philoſophorum perſpicaciſſimis, motus indolem indagantibus: Si verò corpus illud quod quieſcit durum ſit, ut ſupponitur, vix poterit explicari quomodo novam illam motûs determinationem quâ mobile verſus partes op<g ref="char:EOLhyphen"/>poſitas fertur, communicare poſſit, cum ipſum penitus quieſcat &amp; rigidum ſit, quod etiam experientiâ pulveris tormentarii confirmatur.</p>
+            <p n="15">XV. Propriè loquendo motûs Compoſitio nulla reperiri poteſt; ſed quoniam mo<g ref="char:EOLhyphen"/>bile cum variis comparari poteſt, ſaepe plures motus illi tribuimus, nim: unum reſpectu unius &amp; alterum reſpectu alterius: Sit quidem rota vel index horologii in manu ho<g ref="char:EOLhyphen"/>minis, propriè habet niſi unicum motum, <hi>viz.</hi> Reſpectu earum partium quae ſibi con<g ref="char:EOLhyphen"/>tiguae lunt: Supponamus tamen manum hominis ſurſum &amp; deorſum ferri, atque ipſum hominem motu progreſſivo procedere, deprehendemus varios motûs in rota horologij, &amp; dicimus ipſius motum compoſitum eſſe, ex motu proprio circulari, ex motu ſurſum &amp; deorſum, &amp; ex motu progreſſivo.</p>
+            <p n="16">XVI. Univerſalis cauſa motûs eſt <hi>Cauſa Prima,</hi> quae primùm produxit certam quan<g ref="char:EOLhyphen"/>titatem motûs, in materiâ, &amp; eandem ſemper conſervat, propter conſtantem &amp; uni<g ref="char:EOLhyphen"/>formem providentiae ſuae tenorem: Cumque etiam videmus unum corpus ſuum motum non amittere, niſi cum alteri communicet, ità ut quiequid motûs accreſcat uni, tanti<g ref="char:EOLhyphen"/>dem decreſcat alteri, inferri poteſt ipſum motum non perire, ſed ejus eandem quanti<g ref="char:EOLhyphen"/>tatem in materiâ manere, licet nunc in his, nunc in illis partibus.</p>
+            <p n="17">XVII. Cum varietas ſpecierum motûs deſumatur vel à varietate determinationum, &amp; lineatum quas motu ſuo mobile deſcribit; vel ab ipſis mobilibus: Naturam reflexionis conſiſtere exiſtimamus <hi>in mutatione determinationis accidente mobili, in occurſu alterius corporis, quod mobile nec pertranſire poteſt, nec è loco movere:</hi> Proinde dicendum eſt Angulum inciden<g ref="char:EOLhyphen"/>tiae alicujus mobilis aequalem eſſe angulo reflexionis ejuſdem à corpore rigido. Patet inſuper quo obliquior eſt incidentia, eò obliquiorem fore reflexionem, ob paritatem angulorum; Et quoque corporum obliquè incidentium minorem eſſe percuſſionem, quam corporum rectà incidentium, idque in ratione obliquitatis anguli incidentiae. Abſurdum igitur eſt illud commentum, quod quidam Philoſophi magni faciunt, dari <hi>ſciz: quietem mobilis in puncto reflexionis,</hi> cum conſtet reflexionem eſſe ſolùm mutationem determinationis motûs: Si igitur Quies eſſet in puncto reflexionis, non tantum foret mutatio determinationis, ſed ipſius etiam motûs, cujus novi motûs nulla caula aſſigna<g ref="char:EOLhyphen"/>ri poterit. Eodem modo conſtat Refractionem eſſe <hi>mutationem determinationis quae accidit mobili, dum tranſit ex uno medio in aliud, quod ipſi magis vel minus reſiſtit:</hi> Ubi enim mobile pervenerit ex uno rariore medio, ſive quod faciliùs ipſum admittat in aliud denſius, ſive quod magis reſiſtat, tum ratio, tum experientia docet, quod non continuaturum ſit ſuum motum in eâdem rectâ lineâ quâ rarius tranſierat, ſed quod in ipſo puncto conta<g ref="char:EOLhyphen"/>ctûs mediorum ab illâ lineâ rectâ, idque magis vel minus pro inaequalitate mediorum, receſſurum ſit. Hinc deduci poteſt ea ſolum refractionem pati quae obliquè incidunt, quae enim perpendiculariter incidunt; nunquam patiuntur refractionem: Contrà vero quo obliquior eſt incidentia, eò major accidit in refractione mutatio, &amp; ſi obliquum admodum ſit corpus quod incidit, non tam refractionem quam reflexionem patitur. Hoe pueri in lapillis laevigatis ſaepius experiuntur, qui dum in aquam vibran<g ref="char:EOLhyphen"/>tur ſaepiſſime an <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſd<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſuperficie repelluntur, quam tamen facile penetrarent, niſi incidentia ad<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EDINB<g ref="char:V">Ʋ</g>R<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
